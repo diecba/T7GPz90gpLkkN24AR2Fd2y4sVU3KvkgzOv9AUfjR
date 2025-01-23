@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "Truyện Gì Hot",
-    "author": "Nhocconsr",
-    "version": 11,
+    "author": "vBook",
+    "version": 1,
     "source": "https://truyengihotmoi.net",
     "regexp": "(www.)?truyengihot(.*?).net/[^/]+.html$",
     "description": "Nếu mà site đổi domain thì thêm mã bổ sung let CONFIG_URL = 'tên miền mới'",

@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "Bảo Tàng Truyện",
-    "author": "test",
-    "version": 6,
+    "author": "vBook",
+    "version": 1,
     "source": "https://baotangtruyen24.com",
     "regexp": "https://baotangtruyen24.com/truyen-tranh/[0-9a-z-]+/?$",
     "description": "Web Đọc Truyện Tranh Online lớn nhất VN ✔",

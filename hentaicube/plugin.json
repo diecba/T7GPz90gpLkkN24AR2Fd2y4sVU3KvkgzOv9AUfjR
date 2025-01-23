@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "Hentai Cube",
-    "author": "Nhocconsr",
-    "version": 9,
+    "author": "vBook",
+    "version": 1,
     "source": "https://hentaicube.xyz",
     "regexp": "(www.)?hentaicube.xyz/manga/.*",
     "description": "V9 : Fix lỗi thiếu ảnh",
