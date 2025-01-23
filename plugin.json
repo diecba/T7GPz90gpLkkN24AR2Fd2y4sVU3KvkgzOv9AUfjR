@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "author": "vBook",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Truyện QQ",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/truyenqq/plugin.zip",
+      "version": 20,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://truyenqqto.com",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/truyenqq/icon.png",
+      "description": "Đọc truyện trên trang Truyện QQ"
+    },
+    {
+      "name": "Truyện VN",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/truyenvn/plugin.zip",
+      "version": 43,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://truyenvn.li",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/truyenvn/icon.png",
+      "description": "Đọc truyện trên trang Truyện VN"
+    },
+    {
+      "name": "nHentai",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/nhentai/plugin.zip",
+      "version": 4,
+      "type": "comic",
+      "locale": "en_US",
+      "source": "https://nhentai.net",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/nhentai/icon.png",
+      "description": "Đọc truyện trên trang nHentai",
+      "tag": "nsfw"
+    },
+    {
+      "name": "Blog Truyện",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/blogtruyen/plugin.zip",
+      "version": 7,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://blogtruyen.vn",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/blogtruyen/icon.png",
+      "description": "Đọc truyện trên trang Blog Truyện"
+    },
+    {
+      "name": "HentaiVN",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/hentaivn/plugin.zip",
+      "version": 28,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://hentaihvn.tv",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/hentaivn/icon.png",
+      "description": "Đọc truyện trên trang HentaiVN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "U Mê Truyện",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/umetruyen/plugin.zip",
+      "version": 1,
+      "source": "https://umetruyenhay.com",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/umetruyen/icon.png",
+      "description": "Đọc truyện trên trang U Mê Truyện",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Hentai2Read",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/hentai2read/plugin.zip",
+      "version": 1,
+      "source": "https://hentai2read.com",
+      "icon": "https://hentai2read.com/apple-touch-icon.png",
+      "description": "Đọc truyện trên trang Hentai2Read",
+      "tag": "nsfw",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "E Hentai",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/e-hentai/plugin.zip",
+      "version": 1,
+      "source": "https://e-hentai.org",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/e-hentai/icon.png",
+      "description": "Đọc truyện 18+ trên trang e-hentai.org",
+      "tag": "nsfw",
+      "type": "comic"
+    },
+    {
+      "name": "bảo tàng truyện",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/baotangtruyen/plugin.zip",
+      "version": 1,
+      "source": "https://baotangtruyen24.com",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/baotangtruyen/icon.png",
+      "description": "Đọc truyện trên trang bảo tàng Truyện",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "MangaDex",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/mangadex/plugin.zip",
+      "version": 1,
+      "source": "https://mangadex.org",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/mangadex/icon.png",
+      "description": "Đọc truyện trên trang mangadex.org",
+      "type": "comic",
+      "locale": "global"
+    },
+    {
+      "name": "thích đọc Truyện",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/thichdoc/plugin.zip",
+      "version": 1,
+      "source": "https://thichdoc.net",
+      "icon": "https://raw.githubusercontent.com/diecba/T7GPz90gpLkkN24AR2Fd2y4sVU3KvkgzOv9AUfjR/master/thichdoc/icon.png",
+      "description": "Đọc truyện trên trang thichdoc",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+    "name": "Truyện Gì Hot",
+    "author": "1",
+    "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/truyengihot/plugin.zip",
+    "version": 1,
+    "source": "https://truyengihotnhat.com",
+    "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/truyengihot/icon.png",
+    "description": "Đọc truyện trên trang truyengihotnhat.com",
+    "type": "comic",
+    "locale": "vi_VN",
+    "tag": "nsfw"
+    },
+    {
+      "name": "Say Hentai",
+      "author": "1",
+      "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/sayhentai/plugin.zip",
+      "version": 1,
+      "source": "https://sayhentai.art",
+      "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/sayhentai/icon.png",
+      "description": "Đọc truyện trên trang Sayhentai.art",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+    "name": "Hentai Cube",
+    "author": "Nhocconsr",
+    "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/hentaicube/plugin.zip",
+    "version": 9,
+    "source": "https://hentaicube.xyz",
+    "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/hentaicube/icon.png",
+    "description": "Đọc truyện trên trang hentaicube.xyz",
+    "tag": "nsfw",
+    "type": "comic",
+    "locale": "vi_VN"
+    },
+    {
+    "name": "AC QQ",
+    "author": "Nhocconsr",
+    "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/acqq/plugin.zip",
+    "version": 1,
+    "source": "http://m.ac.qq.com",
+    "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/acqq/icon.png",
+    "description": "Đọc truyện trên trang m.ac.qq.com",
+    "type": "comic",
+    "locale": "zh_CN"
+    },
+    {
+    "name": "Manhua Gui",
+    "author": "Nhocconsr",
+    "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/manhuagui/plugin.zip",
+    "version": 4,
+    "source": "https://www.manhuagui.com",
+    "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/manhuagui/icon.png",
+    "description": "Đọc truyện trên trang manhuagui.com",
+    "type": "comic",
+    "locale": "zh_CN"
+    },
+    {
+    "name": "Manga Read",
+    "author": "Nhocconsr",
+    "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/mangaread/plugin.zip",
+    "version": 2,
+    "source": "https://www.mangaread.org",
+    "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/mangaread/icon.png",
+    "description": "Đọc truyện trên trang mangaread.org",
+    "type": "comic",
+    "locale": "en_EN",
+    "tag": "nsfw"
+    }
+  ]
+}

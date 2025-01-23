@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Hentai Cube",
+    "author": "Nhocconsr",
+    "version": 9,
+    "source": "https://hentaicube.xyz",
+    "regexp": "(www.)?hentaicube.xyz/manga/.*",
+    "description": "V9 : Fix lỗi thiếu ảnh",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "thichdoc",
+    "author": "vbook",
+    "version": 1,
+    "source": "https://thichdoc.net",
+    "regexp": "(www.)?thichdoc\\d+.*?/[^/]+.html",
+    "description": "Đọc truyện tại https://thichdoc.net",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
